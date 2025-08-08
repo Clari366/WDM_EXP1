@@ -59,6 +59,10 @@ sunny,77.0,65.0,true,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+<img width="1261" height="941" alt="Screenshot 2025-08-08 113321" src="https://github.com/user-attachments/assets/cd69dee8-c5ff-4b4a-a3f3-e8ea99907fe5" />
+
+![WhatsApp Image 2025-08-08 at 11 31 41 AM](https://github.com/user-attachments/assets/38daf447-15ff-46de-a416-40074b41857a)
+
 
 
 
