@@ -81,8 +81,7 @@ sunny,77.0,65.0,true,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-
-<img width="1225" height="737" alt="Screenshot 2025-08-08 105613" src="https://github.com/user-attachments/assets/59bbbf4b-8c84-413e-a603-639ab458a91d" />
+<img width="1226" height="734" alt="Screenshot 2025-08-08 105908" src="https://github.com/user-attachments/assets/34576489-cf6a-4c8d-ac87-f6f40ea5c969" />
 
 <img width="1227" height="733" alt="Screenshot 2025-08-08 111816" src="https://github.com/user-attachments/assets/31037fbc-1f35-49ea-b7e7-80bac605c466" />
 
@@ -102,8 +101,7 @@ sunny,77.0,65.0,true,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
-<img width="1226" height="734" alt="Screenshot 2025-08-08 105908" src="https://github.com/user-attachments/assets/34576489-cf6a-4c8d-ac87-f6f40ea5c969" />
-
+<img width="1225" height="737" alt="Screenshot 2025-08-08 105613" src="https://github.com/user-attachments/assets/59bbbf4b-8c84-413e-a603-639ab458a91d" />
 <img width="1232" height="735" alt="Screenshot 2025-08-08 111847" src="https://github.com/user-attachments/assets/d8b95dee-0fcf-4b0b-bfb6-bd5a26c97ee4" />
 
 
